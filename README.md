@@ -232,6 +232,16 @@ Achieving a **Top 150 position out of 1,500+ participants** on the Kaggle leader
 
 ---
 
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+You are free to use, modify, and distribute this code, but any modified version — including one deployed as a network service — must also be released under AGPL-3.0 with its source made available.
+
+See the [LICENSE](./LICENSE) file for the full license text.
+
+---
+
 ## Author
 
 **Vaishnavi Bhan**  
